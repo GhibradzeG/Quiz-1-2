@@ -1,0 +1,4 @@
+# batch size is reduced to 300, number of epochs is reduced to 20.
+
+Test Loss: nan
+Test Accuracy: 0.6910

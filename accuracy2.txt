@@ -1,0 +1,4 @@
+Source and destination IP addresses are deleted from Darknet.csv
+
+Test Loss: nan
+Test Accuracy: 0.6910
